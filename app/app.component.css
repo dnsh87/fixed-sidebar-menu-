@@ -1,0 +1,20 @@
+mat-sidenav-container {
+  width: 100% !important;
+  height: calc(100vh - 150px) !important;
+}
+
+mat-sidenav {
+  background-color: gray !important;
+  
+}
+      
+div {
+  display: flex;
+  height: 4000px;
+}
+
+mat-toolbar {
+  height: 50px;
+  position: relative;
+  z-index: 100;
+}
